@@ -1,0 +1,12 @@
+*.csv
+*.wav
+*.txt
+__pycache__/*
+*.pyc
+.DS_Store
+*.log
+explanations/*
+logs/*
+models/*
+metadata/*
+assets/*
