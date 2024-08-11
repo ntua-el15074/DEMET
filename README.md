@@ -48,7 +48,7 @@ pip install -r requirements.txt
 You probably need to activate a new conda environment.
 
 ## API Endpoints
-**1. Predict Audio**\
+### 1. Predict Audio\
 **URL:** /predict_audio\
 **Method:** POST\
 **Description:** This endpoint accepts an audio file, transcribes it, and then predicts the outcome based on the transcribed text.
@@ -61,7 +61,7 @@ You probably need to activate a new conda environment.
 **probability:** The probability associated with the predicted decision.\
 **explanation:** Explanation for the predicted decision.\
 
-**2. Predict Text**\
+### 2. Predict Text\
 **URL:** /predict_text\
 **Method:** POST\
 **Description:** This endpoint accepts a text input and predicts the outcome based on the provided text.\
