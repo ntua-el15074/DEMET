@@ -33,6 +33,10 @@ used through the web application and the CLI tool application.
     <img src="./assets/demet_cli_dementia.png" width="500" title="DEMET CLI tool">
 </p>
 
+## Data
+The data used in this research was provided by [DementiaBank](https://dementia.talkbank.org), from which we used two corpuses, Lu and Pitt to train and evaluate 
+our models and explainability methods. 
+
 ## Installation
 You can view the `requirements.txt` file [here](./requirements.txt).
 To install run this in your terminal:
@@ -78,5 +82,10 @@ python3 app.py
 ```
 
 You can then either use the CLI tool or the Web Application to interact with DEMET.
+
+## Disclaimer
+This is not a final product, it is a proof of concept on the advantages of ensemble learning in explainability, and 
+a new approach on how explainability is provided through the phonological features in a patient's speech. 
+
 
 
