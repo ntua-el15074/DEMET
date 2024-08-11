@@ -21,7 +21,7 @@ by different trasnformer models in order to interpret how different phonological
 the model's decision. 
 
 <p align="center">
-    <img src="./assets/demet_full_ensemble.png" width="350" title="DEMET Architecture">
+    <img src="./assets/demet_full_ensemble.png" width="500" title="DEMET Architecture">
 </p>
 
 DEMET provides both server and client-side implementations. The server-side implementation runs the model 
@@ -30,7 +30,7 @@ interface that allows for textual and audio input, and provides the user with th
 used through the web application and the CLI tool application.
 
 <p align="center">
-    <img src="./assets/demet_cli_dementia.png" width="350" title="DEMET CLI tool">
+    <img src="./assets/demet_cli_dementia.png" width="500" title="DEMET CLI tool">
 </p>
 
 ## Installation
